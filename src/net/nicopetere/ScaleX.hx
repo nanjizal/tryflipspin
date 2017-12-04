@@ -2,6 +2,7 @@ package net.nicopetere;
 
 	/**
 	 * @author nicoptere
+         * please check his github, I am unsure on the licence it may not be covered by MIT.
 	 */
 	import flash.display.BitmapData;
     
