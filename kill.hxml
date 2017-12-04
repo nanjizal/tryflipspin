@@ -1,0 +1,1 @@
+-cmd lsof -ti:6931 | xargs kill
